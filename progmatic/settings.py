@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'accountapp' # 새로운 앱을 만들면 항상 여기에 정의를 해준다
 ]
 
 MIDDLEWARE = [

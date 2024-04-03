@@ -4,7 +4,7 @@
 3. 240401 extends include 템플릿 분할
 4. 240402 footer header / static 적용 css 분할
 5. 240403 django db연결
-   >models.py 수정
-   >명령어 python manage.py makemigrations
-   >명령어 python manage.py migrate       
+   >models.py 수정<Br>
+   >명령어 python manage.py makemigrations<br>
+   >명령어 python manage.py migrate<br>
 6.
